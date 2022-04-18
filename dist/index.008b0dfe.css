@@ -1,0 +1,38 @@
+*, :before, :after {
+  box-sizing: border-box;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
+  line-height: 1;
+}
+
+body, h1, h2, h3, p, dl, dd, figure {
+  margin: 0;
+}
+
+ul[class], ol[class] {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=index.008b0dfe.css.map */
