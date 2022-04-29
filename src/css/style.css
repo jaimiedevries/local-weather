@@ -162,7 +162,7 @@ main {
   padding: 2rem;
 }
 
-.locationContainer {
+.location-container {
   display: flex;
   justify-content: center;
 }
